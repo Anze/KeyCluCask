@@ -1,0 +1,4 @@
+v0.5
+- Lower requirements down to macOS 11
+- Better handling of shortcuts
+- Allow to change font size
