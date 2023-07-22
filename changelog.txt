@@ -1,3 +1,7 @@
+v0.6
+- improved support macOS Sonoma (14)
+- updated symbols look for better experience (+, -, *, delete, backspace)
+
 v0.5.1
 Remove code for old way to add App to Login items
 
