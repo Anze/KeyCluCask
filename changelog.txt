@@ -1,11 +1,16 @@
+v0.7
+- fixed issue for displays with larger texts
+- added possibility to set delay for hotkey list to appear
+- fixed issue with showing empty (duplicate) menus
+
 v0.6
 - improved support macOS Sonoma (14)
 - updated symbols look for better experience (+, -, *, delete, backspace)
 
 v0.5.1
-Remove code for old way to add App to Login items
+- remove code for old way to add App to Login items
 
 v0.5
-- Lower requirements down to macOS 11
-- Better handling of shortcuts
-- Allow to change font size
+- lower requirements down to macOS 11
+- better handling of shortcuts
+- allow to change font size
