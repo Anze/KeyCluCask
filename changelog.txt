@@ -1,3 +1,10 @@
+v0.8
+- fixed shortcuts with non standard keys (umlauts etc)
+- added other way to activate shortcut list
+- added possibility to hide icon in menubar
+- added autoupdater
+- improved views and scrolls
+
 v0.7
 - fixed issue for displays with larger texts
 - added possibility to set delay for hotkey list to appear
