@@ -1,14 +1,14 @@
 KeyClu
 --------------
 
-[![keyclu](https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true)](#)
-
-KeyClu - simple and handy overview of all shortcuts for any application you have.
-Easy to use, just press ⌘ twice and hold to see the list.
-
+![platform:macos](https://img.shields.io/badge/platform-macOS-2F3640.svg)
+![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur-337AFF.svg)
+![download:latest](https://img.shields.io/badge/category-productivity-blue.svg)
 [![download:latest](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![platform:macos](https://img.shields.io/badge/platform-macos-2F3640.svg)](#)
-[![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur-337AFF.svg)](#)
+
+[<img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" width="128px"/>](https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true)
+
+KeyClu - simple and handy overview of all shortcuts for any application you have. Easy to use: just press `⌘` twice and hold to see the list.
 
 ### Install
 
@@ -20,11 +20,11 @@ brew install --cask keyclu
 
 #### Manual download
 
-Download latest:
-* `.dmg` from web: https://sergii.tatarenkov.name/keyclu/support/
-* `.zip` from github: https://github.com/Anze/KeyCluCask/releases/latest
+Latest version can be found here:
+* `.dmg` at [web](https://sergii.tatarenkov.name/keyclu/support/)
+* `.zip` at [github](https://github.com/Anze/KeyCluCask/releases/latest)
 
-### Access Requests
+### Access
 
 KeyClu ask for permissions:
 * Accessibility - require to operate
