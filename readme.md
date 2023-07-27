@@ -1,7 +1,8 @@
 KeyClu
 --------------
 
-[![keyclu](https://github.com/Anze/KeyCluCask/blob/develop/img/keyclu.png?raw=true)](#)
+[![keyclu](https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true)](#)
+
 KeyClu - simple and handy overview of all shortcuts for any application you have.
 Easy to use, just press ⌘ twice and hold to see the list.
 
@@ -20,13 +21,13 @@ brew install --cask keyclu
 #### Manual download
 
 Download latest:
-* dmg from web: https://sergii.tatarenkov.name/keyclu/support/
-* zip from github: https://github.com/Anze/KeyCluCask/releases/latest
+* `.dmg` from web: https://sergii.tatarenkov.name/keyclu/support/
+* `.zip` from github: https://github.com/Anze/KeyCluCask/releases/latest
 
-### Access Rights
+### Access Requests
 
 KeyClu ask for permissions:
-* Accessibility - required to operate
+* Accessibility - require to operate
 * Notification Center - optional, update notification without interruption
 
 ### Usage
@@ -35,6 +36,6 @@ KeyClu ask for permissions:
 
 If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌘` key 3 times.
 
-### Contributors
+### Thanks
 
 Thanks to all the people who made suggestions and reported bugs. Thank you guys so much!
