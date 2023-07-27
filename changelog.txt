@@ -1,3 +1,9 @@
+v0.8.1
+- fixed issue with autoupdater
+- fixed issue with incrorrect activation key behaviour
+- improving look, allow to hide credits
+- add activation key for Settings when menubar icon is hidden (quickly press ⌘ 3 times)
+
 v0.8
 - fixed shortcuts with non standard keys (umlauts etc)
 - added other way to activate shortcut list
