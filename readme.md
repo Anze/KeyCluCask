@@ -8,7 +8,13 @@ KeyClu
 
 [<img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" width="128px"/>](https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true)
 
-KeyClu - simple and handy overview of all shortcuts for any application you have. Easy to use: just press `⌘` twice and hold to see the list.
+KeyClu - simple and handy overview of all shortcuts for any application. Easy to use: just press `⌘` twice and hold to see the list.
+
+❤️ it? Then ⭐️ it on GitHub.
+
+### Screenshot
+
+![screenshot](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot.png?raw=true)
 
 ### Install
 
