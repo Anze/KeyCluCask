@@ -16,8 +16,6 @@ KeyClu - simple and handy overview of all shortcuts for any application. Easy to
 
 ![screenshot](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot.png?raw=true)
 
-❤️ it? Then ⭐️ it on GitHub.
-
 ### Install
 
 #### Using Homebrew
