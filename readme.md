@@ -1,18 +1,19 @@
-KeyClu
---------------
+[<img src="https://github.com/Anze/KeyCluCask/blob/main/img/logo.png?raw=true"/>](https://github.com/Anze/KeyCluCask/blob/main/img/logo.png?raw=true)
 
 ![platform:macos](https://img.shields.io/badge/platform-macOS-2F3640.svg)
 ![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur-337AFF.svg)
 ![download:latest](https://img.shields.io/badge/category-productivity-blue.svg)
 [![download:latest](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
+[![](https://img.shields.io/badge/PayPal-Buy%20me%20a%20Coffee-blue)](https://www.paypal.me/statarenkov)
 
-[<img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" width="128px"/>](https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true)
+KeyClu
+--------------
 
 KeyClu - simple and handy overview of all shortcuts for any application. Easy to use: just press `⌘` twice and hold to see the list.
 
 ❤️ it? Then ⭐️ it on GitHub.
 
-### Screenshot
+### Screenshots
 
 ![screenshot](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot.png?raw=true)
 
@@ -34,7 +35,7 @@ Latest version can be found here:
 
 KeyClu ask for permissions:
 * Accessibility - require to operate
-* Notification Center - optional, update notification without interruption
+* Notification Center - optional, gentle update notification
 
 ### Usage
 * Press `⌘` key twice and hold (default) to present shortcuts of current app
