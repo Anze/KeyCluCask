@@ -1,3 +1,14 @@
+v0.9
+- fix issue with icon in Settings in macOS 11 & 12
+- fix issue with hover effect on elements in macOS 11 & 12
+- fix issue with possible crash when list of shortcuts is too small
+- added hide/show shortcuts locally and globally feature (right click element to pick action)
+- added bookmarks to shortcuts feature
+- added settings to show/hide bookmarked and user-hidden elements
+- added legends to preview window in Settings
+- added images to help user grant permission
+- known issue: no horizontal line present when credits are shown in macOS 14
+
 v0.8.1
 - fixed issue with autoupdater
 - fixed issue with incrorrect activation key behaviour
