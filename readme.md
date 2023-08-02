@@ -4,7 +4,7 @@
 ![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur-337AFF.svg)
 ![download:latest](https://img.shields.io/badge/category-productivity-blue.svg)
 [![download:latest](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![](https://img.shields.io/badge/PayPal-Buy%20me%20a%20Coffee-blue)](https://www.paypal.me/statarenkov)
+[![](https://img.shields.io/badge/PayPal-Buy%20me%20a%20Coffee-blue)](https://www.paypal.com/donate/?hosted_button_id=ZREZJUGEE8GGN)
 
 KeyClu
 --------------
@@ -28,7 +28,7 @@ brew install --cask keyclu
 #### Manual download
 
 Latest version can be found here:
-* `.dmg` at [web](https://sergii.tatarenkov.name/keyclu/support/)
+* `.dmg` at [github](https://github.com/Anze/KeyCluCask/releases/latest)
 * `.zip` at [github](https://github.com/Anze/KeyCluCask/releases/latest)
 
 ### Access
