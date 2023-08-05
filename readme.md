@@ -15,7 +15,9 @@ KeyClu - simple and handy overview of all shortcuts for any application. Easy to
 
 ### Screenshots
 
-![screenshot](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot.png?raw=true)
+![screenshot1](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_1.png?raw=true)
+
+![screenshot2](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_2.png?raw=true)
 
 ### Install
 
