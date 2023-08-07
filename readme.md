@@ -2,9 +2,10 @@
 
 ![platform:macos](https://img.shields.io/badge/platform-macOS-2F3640.svg)
 ![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur-337AFF.svg)
-![download:latest](https://img.shields.io/badge/category-productivity-blue.svg)
-[![download:latest](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
+![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
+[![downloads](https://img.shields.io/github/downloads/Anze/KeyCluCask/total.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
 [![](https://img.shields.io/badge/PayPal-Buy%20me%20a%20Coffee-blue)](https://www.paypal.com/donate/?hosted_button_id=ZREZJUGEE8GGN)
+
 
 KeyClu
 --------------
