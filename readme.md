@@ -1,18 +1,16 @@
 [<img src="https://github.com/Anze/KeyCluCask/blob/main/img/logo.png?raw=true"/>](https://github.com/Anze/KeyCluCask/blob/main/img/logo.png?raw=true)
 
 ![platform:macos](https://img.shields.io/badge/platform-macOS-2F3640.svg)
-![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur-337AFF.svg)
+![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur%2B-337AFF.svg)
 ![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
-[![downloads](https://img.shields.io/github/downloads/Anze/KeyCluCask/total.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![](https://img.shields.io/badge/PayPal-Buy%20me%20a%20Coffee-blue)](https://www.paypal.com/donate/?hosted_button_id=ZREZJUGEE8GGN)
 
+[![github downloads](https://img.shields.io/github/downloads/Anze/KeyCluCask/total.svg?label=github%20downloads)](https://github.com/Anze/KeyCluCask/releases/latest)
+[![brew downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/cask/keyclu.json&query=$.analytics.install[%27365d%27].keyclu&label=homebrew%20installs&color=brightgreen)](https://formulae.brew.sh/cask/keyclu)
 
 KeyClu
 --------------
 
-KeyClu - simple and handy overview of all shortcuts for any application. Easy to use: just press `⌘` twice and hold to see the list.
-
-❤️ it? Then ⭐️ it on GitHub.
+Simple and handy overview of all shortcuts for any application. Easy to use: just press `⌘` twice and hold to see the list.
 
 ### Screenshots
 
@@ -29,13 +27,11 @@ brew install --cask keyclu
 ```
 
 #### Manual download
-
 Latest version can be found here:
-* `.dmg` at [github](https://github.com/Anze/KeyCluCask/releases/latest)
-* `.zip` at [github](https://github.com/Anze/KeyCluCask/releases/latest)
+* `.dmg`: [github download](https://github.com/Anze/KeyCluCask/releases/latest)
+* `.zip`: [github download](https://github.com/Anze/KeyCluCask/releases/latest)
 
 ### Access
-
 KeyClu ask for permissions:
 * Accessibility - require to operate
 * Notification Center - optional, gentle update notification
@@ -47,5 +43,6 @@ KeyClu ask for permissions:
 If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌘` key 3 times.
 
 ### Thanks
-
 Thanks to all the people who made suggestions and reported bugs. Thank you guys so much!
+
+You ❤️ to use KeyClu? Be sure to ⭐ it and maybe support me with caffeine.
