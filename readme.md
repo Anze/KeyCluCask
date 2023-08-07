@@ -42,6 +42,9 @@ KeyClu ask for permissions:
 
 If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌘` key 3 times.
 
+### License
+KeyClu is released under the BSD-3-Clause-Clear license. See LICENSE for details.
+
 ### Thanks
 Thanks to all the people who made suggestions and reported bugs. Thank you guys so much!
 
