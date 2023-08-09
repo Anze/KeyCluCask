@@ -1,3 +1,13 @@
+v0.10
+- fix issue when some keys was not shown
+- fix issue when menu element was not shown if title was empty, for example in firefox (bug?), whatsapp (hidden menu?)
+- fix issue when menu group was shown even if no submenu elements left to present
+- added option to choose preferred scheme to display
+- added option to limit amount of elements for browsers
+- added option to truncate long menu titles
+- improved performance
+- minor interface improvements
+
 v0.9
 - fix issue with icon in Settings in macOS 11 & 12
 - fix issue with hover effect on elements in macOS 11 & 12
