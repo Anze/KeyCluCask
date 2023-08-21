@@ -39,8 +39,11 @@ KeyClu ask for permissions:
 ### Usage
 * Press `⌘` key twice and hold (default) to present shortcuts of current app
 * Press `⌘` key and hold (alternative) to present shortcuts of current app
+* Press `⌘` key 3 times to toggle persistent panel
+* Trigger show shortcuts panel by passing `--show-shortcuts` param
+* Toggle persistent panel by passing `--toggle-persistent` param
 
-If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌘` key 3 times.
+If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌃`(ctrl) key 3 times.
 
 ### License
 KeyClu is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for details.
