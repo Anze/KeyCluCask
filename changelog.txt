@@ -1,3 +1,16 @@
+v0.11
+- fixed bug which might lead to crash in macOS 14
+- changed accessing Settings window shortcut key, from pressing ⌘(cmd) 3 times to ⌃(ctrl) 3 times
+- added persistent panel (basic), toggle it by pressing ⌘(cmd) 3 times
+- added support `skhd` with command line params
+- added possibility to trigger show shortcuts panel by passing `--show-shortcuts` param to binary *
+- added possibility to toggle persistent panel by passing `--toggle-persistent` param to binary
+- improved handling of activation key(s)
+- improved bookmark targeting
+- improved symbols looks
+
+\* It's important to note: due to workflow, there's a deliberate delay of 0.5 seconds before the window appears.
+
 v0.10
 - fix issue when some keys was not shown
 - fix issue when menu element was not shown if title was empty, for example in firefox (bug?), whatsapp (hidden menu?)
