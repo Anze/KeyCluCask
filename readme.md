@@ -20,33 +20,39 @@ Simple and handy overview of all shortcuts for any application. Easy to use: jus
 
 ### Install
 
-#### Using Homebrew
-
+#### Homebrew
 ```
 brew install --cask keyclu
 ```
 
-#### Manual download
-Latest version can be found here:
-* [download .dmg](https://github.com/Anze/KeyCluCask/releases/latest)
-* [download .zip](https://github.com/Anze/KeyCluCask/releases/latest)
+#### Manual
+* [latest version](https://github.com/Anze/KeyCluCask/releases/latest)
 
-### Access
-KeyClu ask for permissions:
-* Accessibility - require to operate
-* Notification Center - optional, gentle update notification
+### Permissions
+* Required access to `Accessibility API` to operate.
+* Preferred to have access to `Notification Center` to provide gentle update notification.
 
 ### Usage
 * Press `⌘` key twice and hold (default) to present shortcuts of current app
 * Press `⌘` key and hold (alternative) to present shortcuts of current app
 * Press `⌘` key 3 times to toggle persistent panel
-* Trigger show shortcuts panel by passing `--show-shortcuts` param
-* Toggle persistent panel by passing `--toggle-persistent` param
+
+### Integrations
+* [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
+* Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
+ * Trigger show shortcuts panel by passing `--show-shortcuts` param
+ * Toggle persistent panel by passing `--toggle-persistent` param
 
 If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌃`(ctrl) key 3 times.
 
 ### License
 KeyClu is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for details.
+
+### Privacy Policy
+KeyClu collects no personal information nor does use any services for analytics, advertising etc.
+
+### Contributors
+* [wanwindwalker](https://github.com/wanwindwalker) updated app icon.
 
 ### Thanks
 Thanks to all the people who made suggestions and reported bugs. Thank you guys so much!

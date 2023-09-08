@@ -1,3 +1,13 @@
+v0.12
+- fixed issue with hiding persistent panel when focused
+- improved work with multi-monitor environment
+- added integration with CustomShortcuts to customize shortcuts
+- added possibility to pause/resume app
+- added possibility to toggle Shortcuts panel from menu
+- added possibility to toggle Persistent panel from menu
+- updated Settings window to modern look
+- updated app icon, thanks to wanwindwalker
+
 v0.11
 - fixed bug which might lead to crash in macOS 14
 - changed accessing Settings window shortcut key, from pressing ⌘(cmd) 3 times to ⌃(ctrl) 3 times
