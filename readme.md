@@ -1,5 +1,5 @@
 [<img src="https://github.com/Anze/KeyCluCask/blob/main/img/logo.png?raw=true"/>](https://github.com/Anze/KeyCluCask/blob/main/img/logo.png?raw=true)
-![platform:macos](https://img.shields.io/badge/platform-macOS-2F3640.svg)
+![platform:macos  + Intel](https://img.shields.io/badge/platform-macOS%20%20%20+%20Intel-2F3640.svg)
 ![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur%2B-337AFF.svg)
 ![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
 ![license:bsd-3-clause-clear](https://img.shields.io/badge/license-BSD--3--Clause--Clear-orange.svg)
