@@ -40,8 +40,8 @@ brew install --cask keyclu
 ### Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
 * Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
- * Trigger show shortcuts panel by passing `--show-shortcuts` param
- * Toggle persistent panel by passing `--toggle-persistent` param
+  - Trigger show shortcuts panel by passing `--show-shortcuts` param
+  - Toggle persistent panel by passing `--toggle-persistent` param
 
 If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌃`(ctrl) key 3 times.
 
