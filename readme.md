@@ -41,7 +41,7 @@ brew install --cask keyclu
 ### Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
 * Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
-  - Trigger show shortcuts panel by passing `--show-shortcuts` param (action is `toggle` when App is paused)
+  - Trigger shortcuts panel by passing `--show-shortcuts` param (action becomes `toggle` when App is paused)
   - Toggle persistent panel by passing `--toggle-persistent` param
 
 ### License
