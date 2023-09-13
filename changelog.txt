@@ -1,3 +1,10 @@
+v0.13
+- fixed crash when pause and toggle hide/show menu bar icon
+- added opening Settings Window when opening app while it is running, for people who hide menu bar icon
+- added possibility to show app icon
+- improved Setting Window view
+- changed behaviour of `--show-shortcuts` param from *show* to *toggle* when app is paused
+
 v0.12
 - fixed issue with hiding persistent panel when focused
 - improved work with multi-monitor environment
