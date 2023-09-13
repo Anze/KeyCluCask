@@ -36,14 +36,13 @@ brew install --cask keyclu
 * Press `⌘` key twice and hold (default) to present shortcuts of current app
 * Press `⌘` key and hold (alternative) to present shortcuts of current app
 * Press `⌘` key 3 times to toggle persistent panel
-
+* Open Settings Window by launch app again or if icon of the App is hidden in menu bar, you can quickly pressing `⌃`(ctrl) key 3 times
+  
 ### Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
 * Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
-  - Trigger show shortcuts panel by passing `--show-shortcuts` param
+  - Trigger show shortcuts panel by passing `--show-shortcuts` param (action is `toggle` when App is paused)
   - Toggle persistent panel by passing `--toggle-persistent` param
-
-If icon of the App is hidden in menu bar, you can call Settings window by quickly pressing `⌃`(ctrl) key 3 times.
 
 ### License
 KeyClu is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for details.
