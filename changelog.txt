@@ -1,3 +1,12 @@
+v0.14
+- fixed typo in English spelling
+- fixed Hide Shortcut Panel behaviour when App is not paused
+- fixed vertical layout in macOS 12
+- added possibility to disable trigger for Persistent Panel
+- added possibility to manually register shortcuts
+- improved performance
+- removed button for Login Items in macOS 11 & 12, as can not open proper place
+
 v0.13
 - fixed crash when pause and toggle hide/show menu bar icon
 - added opening Settings Window when opening app while it is running, for people who hide menu bar icon
