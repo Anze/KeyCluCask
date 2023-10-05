@@ -3,7 +3,7 @@
   <h1 align="center">KeyClu for macOS</h1>
 </p>
 
-Simple and handy overview of all shortcuts for applications. Easy to use: just press `⌘` twice and hold to see the list.
+Simple and handy overview of applications shortcuts. Easy to use: just press `⌘` twice and hold to see the list.
 
 ![platform:macos  + Intel](https://img.shields.io/badge/platform-macOS%20%20%20+%20Intel-2F3640.svg)
 ![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur%2B-337AFF.svg)
