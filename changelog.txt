@@ -1,3 +1,10 @@
+v0.15
+- added the capability to switch displaying and bookmarking status of all Custom Shortcuts by clicking table column
+- added a notification to indicate the success or failure of the import process
+- improved the performance
+- improved sending process of user defined Shortcuts
+- introduced a custom file extension for import/export Custom Shortcuts files
+
 v0.14
 - fixed typo in English spelling
 - fixed Hide Shortcut Panel behaviour when App is not paused
