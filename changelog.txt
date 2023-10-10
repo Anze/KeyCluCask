@@ -3,6 +3,7 @@ v0.15
 - added a notification to indicate the success or failure of the import process
 - improved the performance
 - improved sending process of user defined Shortcuts
+- improved the distribution and filled the columns more evenly
 - introduced a custom file extension for import/export Custom Shortcuts files
 
 v0.14
