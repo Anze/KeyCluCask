@@ -14,11 +14,11 @@ Simple and handy overview of applications shortcuts. Easy to use: just press `‚å
 [![brew downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/cask/keyclu.json&query=$.analytics.install[%27365d%27].keyclu&label=homebrew%20installs&color=brightgreen)](https://formulae.brew.sh/cask/keyclu)
 
 ## Screenshots
-![screenshot1](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_1.png?raw=true)
+![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/afe56a7816b13cf0892bbc6b007885efcfa735e1/img/screenshot_1.png)
 
-![screenshot2](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_2.png?raw=true)
+![screenshot2](https://raw.githubusercontent.com/Anze/KeyCluCask/afe56a7816b13cf0892bbc6b007885efcfa735e1/img/screenshot_2.png)
 
-![screenshot3](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_3.png?raw=true)
+![screenshot3](https://raw.githubusercontent.com/Anze/KeyCluCask/afe56a7816b13cf0892bbc6b007885efcfa735e1/img/screenshot_3.png)
 
 ## Installation
 ### Homebrew
