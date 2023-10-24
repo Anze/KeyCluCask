@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" height="128" /> 
+  <img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" height="128" />
   <h1 align="center">KeyClu for macOS</h1>
 </p>
 
@@ -18,6 +18,8 @@ Simple and handy overview of applications shortcuts. Easy to use: just press `‚å
 
 ![screenshot2](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_2.png?raw=true)
 
+![screenshot3](https://github.com/Anze/KeyCluCask/blob/main/img/screenshot_3.png?raw=true)
+
 ## Installation
 ### Homebrew
 To install it using Homebrew, open the Terminal app and type:
@@ -27,7 +29,7 @@ brew install --cask keyclu
 ### Manual
 Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest) `.dmg`, open it and move the KeyClu app to the Applications folder.
 
-## Required Permissions
+## Permissions
 * Required access to `Accessibility API` to operate.
 * Preferred to have access to `Notification Center` to provide gentle update notification.
 
@@ -44,7 +46,7 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Persistent panel
 * Register own shortcuts
 * Support 3rd-party integrations
-  
+
 ### Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
 * Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
