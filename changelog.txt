@@ -1,3 +1,13 @@
+v0.16
+- fixed a bug that occurred when attempting to edit two columns simultaneously
+- fixed a bug that was causing not all menu elements to be displayed
+- fixed a bug that prevent menu element to be hovered properly
+- fixed a bug with incorrect scroll bar height calculation for Persistent Panel
+- added the option to adjust the delay to support Sticky Keys (Settings -> Advanced)
+- introduced a new feature for grouping in "My Shortcuts"
+- improved the title editing experience for "My Shortcuts" (now with double click/tap)
+- improved the format of the exported file, making it more human-readable
+
 v0.15
 - added the capability to switch displaying and bookmarking status of all Custom Shortcuts by clicking table column
 - added a notification to indicate the success or failure of the import process
