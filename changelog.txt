@@ -1,3 +1,8 @@
+v0.17
+- small cosmetic update for macOS 11
+- update UI wording and phrases
+- improve performance
+
 v0.16
 - fixed a bug that occurred when attempting to edit two columns simultaneously
 - fixed a bug that was causing not all menu elements to be displayed
