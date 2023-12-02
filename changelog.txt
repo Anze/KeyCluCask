@@ -1,3 +1,8 @@
+v0.18
+- fixed issue with F keys (F13 to F20)
+- added possibility to control Shortcut Panel width and height
+- added possibility to control Persistent Panel width, height and position (to control position pick "desired" option in Window Settings)
+
 v0.17
 - small cosmetic update for macOS 11
 - update UI wording and phrases
