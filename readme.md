@@ -64,7 +64,7 @@ KeyClu collects no personal information nor does use any services for analytics,
 KeyClu is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for details.
 
 ## Thanks
-* [@wanwindwalker](https://github.com/wanwindwalker) (app icon)
+* [@wanwindwalker](https://github.com/wanwindwalker) (legacy app icon)
 * To all the people who made suggestions and reported bugs
 
 You ❤️ to use KeyClu? Be sure to ⭐ it and maybe support me with caffeine.
