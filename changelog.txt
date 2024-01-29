@@ -1,3 +1,11 @@
+v0.19
+- fixed issue with clicking on the shortcut empty space
+- enhanced the key capture mechanism to minimize unintended Shortcuts Panel activations
+- implemented shortcut highlighting for enhanced user experience when modifier keys are pressed
+- implemented configurable option to allow dismiss Shortcuts Panel by releasing all modifier keys or pressing any non-modifier key
+- changed App icon
+- changed behavior of the Shortcuts Panel, now it closes when clicking on a menu item
+
 v0.18
 - fixed issue with F keys (F13 to F20)
 - added possibility to control Shortcut Panel width and height
