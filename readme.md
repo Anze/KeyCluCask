@@ -34,9 +34,9 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Preferred to have access to `Notification Center` to provide gentle update notification.
 
 ## Usage
-* Press![tap-tap-and-hold](https://raw.githubusercontent.com/Anze/KeyCluCask/6960c5563f5c3be0e47c898ec76995c43b9bc2b0/img/cmd-ani2.gif)key twice and hold (default) to present shortcuts of current app
+* Press `⌘` key twice and hold (default) to present shortcuts of current app
 
-* Press![tap-and-hold](https://raw.githubusercontent.com/Anze/KeyCluCask/6960c5563f5c3be0e47c898ec76995c43b9bc2b0/img/cmd-ani1.gif)key and hold (alternative) to present shortcuts of current app
+* Press `⌘` key and hold (alternative) to present shortcuts of current app
 * Press `⌘` key 3 times to toggle persistent panel
 
 ## Features
