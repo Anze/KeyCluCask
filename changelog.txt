@@ -1,3 +1,8 @@
+v0.20
+- fixed app crashes on certain conditions
+- added filtering functionality for menu items, available when 'Show credits line' is enabled in 'Window Presets' (not available in Persistent Panel)
+- improved permission checks in 'General Presets'
+
 v0.19
 - fixed issue with clicking on the shortcut empty space
 - enhanced the key capture mechanism to minimize unintended Shortcuts Panel activations
