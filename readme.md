@@ -33,20 +33,20 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Required access to `Accessibility API` to operate.
 * Preferred to have access to `Notification Center` to provide gentle update notification.
 
-## Usage
+## Basic usage
 * Press `⌘` key twice and hold (default) to present shortcuts of current app
 * Press `⌘` key and hold (alternative) to present shortcuts of current app
-* Press `⌘` key 3 times to toggle persistent panel
 
 ## Features
 * Adjustable view
 * Support `system`, `light` and `dark` theme
-* Bookmarking shortcuts
-* Pause app
 * Persistent panel
-* Register own shortcuts
+* Pause app
+* Bookmarking shortcuts
+* Hide known shortcuts
+* List own shortcuts
+* Filter and hightlight shortcuts
 * Support 3rd-party integrations
-* Filter shortcuts by text
 
 ## Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
