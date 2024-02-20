@@ -48,7 +48,7 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Support 3rd-party integrations
 * Filter shortcuts by text
 
-### Integrations
+## Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
 * Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
   - Trigger shortcuts panel by passing `--show-shortcuts` param (action becomes `toggle` when App is paused)
@@ -57,6 +57,12 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 ## FAQ
 ### How to open Settings if icon is hidden?
 To open Settings window simply launch app again or quickly press `⌃`(control) key 3 times.
+
+### App just crashed!
+In case of a crash, please open the issue and provide details, relevant logs, and a brief description of your activities that might leading up to the crash. Check the page [FAQ - KeyClu just crashed](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) for guidance on collecting the necessary information for the issue. Your cooperation will help to resolve issue more effectively.
+
+## Roadmap
+Take a look at [KeyClu's Project board](https://github.com/users/Anze/projects/1) to get an idea of what's brewing!
 
 ## Privacy Policy
 KeyClu collects no personal information nor does use any services for analytics, advertising etc.
