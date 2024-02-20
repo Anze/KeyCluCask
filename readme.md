@@ -35,7 +35,6 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 
 ## Usage
 * Press `⌘` key twice and hold (default) to present shortcuts of current app
-
 * Press `⌘` key and hold (alternative) to present shortcuts of current app
 * Press `⌘` key 3 times to toggle persistent panel
 
@@ -47,6 +46,7 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Persistent panel
 * Register own shortcuts
 * Support 3rd-party integrations
+* Filter shortcuts by text
 
 ### Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
