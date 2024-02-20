@@ -1,3 +1,12 @@
+v0.21
+- fixed filtering field issues (might be not all)
+- fixed app stability and performance issues
+- changed menu item actions to be accessible with a simple tap on the "menu" (bookmark) icon
+- enhanced accessibility privileges verification
+- added possibility to close 'Persistent Panel' with pressing ⎋ key
+- added silent launch and quit options for the app
+- removed gap for 'Persistent Panel' when aligned to the left or right
+
 v0.20
 - fixed app crashes on certain conditions
 - added filtering functionality for menu items, available when 'Show credits line' is enabled in 'Window Presets' (not available in Persistent Panel)
