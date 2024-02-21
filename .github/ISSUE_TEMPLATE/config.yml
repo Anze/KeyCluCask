@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: "\U0001F914 Support Question"
+    url: https://github.com/Anze/KeyCluCask/discussions
+    about: Q&A, ideas and more
+  - name: "\U0001F4D6 User Manual"
+    url: https://github.com/Anze/KeyCluCask/wiki
+    about: Read the wiki

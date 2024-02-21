@@ -1,0 +1,35 @@
+---
+name: "\U0001F680 Feature Request"
+description: Suggest an idea for KeyClu
+title: "[feature]: a great idea"
+labels: [improvement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks :heart: for using KeyClu and taking the time to fill out this feature request!**
+
+        Before you submit your feature request, please complete each text area below with the relevant details for your idea.
+  - type: input
+    attributes:
+      label: Description
+      description: |
+        A short description of your requested feature.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Proposal
+      description: |
+        Briefly but precisely describe the solution you'd like.
+
+        Consider attaching images showing what you are imagining.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Alternatives
+      description: |
+        Describe alternative solutions you've considered.
+    validations:
+      required: false

@@ -1,0 +1,64 @@
+---
+name: "\U0001F41E Bug Report"
+description: Something isn't working as expected
+title: "[bug]: issue title"
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks :heart: for using KeyClu and taking the time to fill out this bug report!**
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Description
+      description: |
+        A clear and concise description of the bug.
+
+        If you think this issue has been recently introduced and did not occur in an earlier version, please note that.
+        If possible, include the last version that the behavior was correct in addition to your current version.
+        An attached screenshot that is exhibiting the issue, and/or [ips-file if the crash report](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) would greatly helps.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: "Describe what you expect to happen."
+    validations:
+      required: false
+  - type: input
+    id: app
+    attributes:
+      label: App version
+      description: The version of the App used.
+      placeholder: "'0.21' for example"
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: macOS version
+      description: The version of the OS running.
+      placeholder: "'macOS Sonoma 14.4' for example"
+    validations:
+      required: true
+  - type: dropdown
+    id: installation
+    attributes:
+      label: Installation method
+      description: Installation method used.
+      options:
+        - Manual (dmg/zip)
+        - Homebrew
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: ivetried
+    attributes:
+      label: Checklist before submitting a bug
+      description: Please verify all the following items before submitting a bug.
+      options:
+        - label: This issue hasn't been addressed in an [existing GitHub issue](https://github.com/Anze/KeyCluCask/issues) or [discussion](https://github.com/Anze/KeyCluCask/discussions).
+          required: true
