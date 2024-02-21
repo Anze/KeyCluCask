@@ -10,13 +10,6 @@ body:
         **Thanks :heart: for using KeyClu and taking the time to fill out this feature request!**
 
         Before you submit your feature request, please complete each text area below with the relevant details for your idea.
-  - type: input
-    attributes:
-      label: Description
-      description: |
-        A short description of your requested feature.
-    validations:
-      required: true
   - type: textarea
     attributes:
       label: Proposal
