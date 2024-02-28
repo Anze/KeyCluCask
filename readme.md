@@ -44,7 +44,7 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Pause app
 * Bookmarking shortcuts
 * Hide known shortcuts
-* List own shortcuts
+* List own & skhd shortcuts
 * Filter and hightlight shortcuts
 * Support 3rd-party integrations
 
