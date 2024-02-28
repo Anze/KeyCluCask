@@ -14,11 +14,11 @@ Simple and handy overview of applications shortcuts. Easy to use: just press `‚å
 [![brew downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/cask/keyclu.json&query=$.analytics.install[%27365d%27].keyclu&label=homebrew%20installs&color=brightgreen)](https://formulae.brew.sh/cask/keyclu)
 
 ## Screenshots
-![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/afe56a7816b13cf0892bbc6b007885efcfa735e1/img/screenshot_1.png)
+![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
 
-![screenshot2](https://raw.githubusercontent.com/Anze/KeyCluCask/afe56a7816b13cf0892bbc6b007885efcfa735e1/img/screenshot_2.png)
+![screenshot2](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_2.png)
 
-![screenshot3](https://raw.githubusercontent.com/Anze/KeyCluCask/afe56a7816b13cf0892bbc6b007885efcfa735e1/img/screenshot_3.png)
+![screenshot3](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_3.png)
 
 ## Installation
 ### Homebrew
@@ -56,7 +56,7 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 
 ## FAQ
 ### How to open Settings if icon is hidden?
-To open Settings window simply launch app again or quickly press `‚åÉ`(control) key 3 times.
+To open Settings window simply launch app again.
 
 ### App just crashed!
 In case of a crash, please open the issue and provide details, relevant logs, and a brief description of your activities that might leading up to the crash. Check the page [FAQ - KeyClu just crashed](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) for guidance on collecting the necessary information for the issue. Your cooperation will help to resolve issue more effectively.
