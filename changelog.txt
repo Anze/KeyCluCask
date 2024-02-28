@@ -1,3 +1,13 @@
+v0.22
+- fixed bug with Shortcuts Panel being showed briefly if called from status menu bar or via cli
+- fixed issue of incorrect targeting KeyClu as active app
+- fixed issue with forced request of Notification Permission
+- improved app stability and performance
+- added option to show/hide My Shortcuts (Settings -> Integrations)
+- added option to show/hide skhd shortcuts (Settings -> Integrations)
+- added possibility to export App's menu item shortcuts to Markdown file via button M on the bottom right of Command bar
+- removed feature to access Settings via tapping 3x control key when App icon is hidden
+
 v0.21
 - fixed filtering field issues (might be not all)
 - fixed app stability and performance issues
