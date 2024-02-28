@@ -38,25 +38,25 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 * Press `⌘` key and hold (alternative) to present shortcuts of current app
 
 ## Features
-* Adjustable view
-* Support `system`, `light` and `dark` theme
-* Persistent panel
-* Pause app
-* Bookmarking shortcuts
+A few of the things you can do with KeyClu:
+* Adjust view to your liking
+* Personalize sheme to `system`, `light` and `dark`
+* Bookmark shortcuts
 * Hide known shortcuts
 * List own & skhd shortcuts
 * Filter and hightlight shortcuts
-* Support 3rd-party integrations
+* Export App's shortcuts to markdown file
 
 ## Integrations
-* [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts.
-* Other tools like [skhd](https://github.com/koekeishiya/skhd) to change KeyClu activation hotkey:
-  - Trigger shortcuts panel by passing `--show-shortcuts` param (action becomes `toggle` when App is paused)
+* [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts
+* [skhd](https://github.com/koekeishiya/skhd) to list shortcuts, more details on [wiki](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd) page
+* CLI tools like to manipulate KeyClu:
+  - Trigger shortcuts panel by passing `--show-shortcuts` param (action becomes `toggle` when KeyClu is paused)
   - Toggle persistent panel by passing `--toggle-persistent` param
 
 ## FAQ
 ### How to open Settings if icon is hidden?
-To open Settings window simply launch app again.
+To open Settings simply launch app again.
 
 ### App just crashed!
 In case of a crash, please open the issue and provide details, relevant logs, and a brief description of your activities that might leading up to the crash. Check the page [FAQ - KeyClu just crashed](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) for guidance on collecting the necessary information for the issue. Your cooperation will help to resolve issue more effectively.
@@ -64,14 +64,24 @@ In case of a crash, please open the issue and provide details, relevant logs, an
 ## Roadmap
 Take a look at [KeyClu's Project board](https://github.com/users/Anze/projects/1) to get an idea of what's brewing!
 
+Feature requests are always welcome.
+
 ## Privacy Policy
 KeyClu collects no personal information nor does use any services for analytics, advertising etc.
 
-## License
+## License & Credits
 KeyClu is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for details.
 
-## Thanks
-* [@wanwindwalker](https://github.com/wanwindwalker) (legacy app icon)
-* To all the people who made suggestions and reported bugs
+This software uses the following open source packages:
+* [Sparkle](https://github.com/sparkle-project/Sparkle)
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+* [SQLiteMigrationManager.swift](https://github.com/garriguv/SQLiteMigrationManager.swift)
 
-You ❤️ to use KeyClu? Be sure to ⭐ it and maybe support me with caffeine.
+## Thanks
+* Special thanks to everyone who contributed to getting the KeyClu to the current state
+* [@wanwindwalker](https://github.com/wanwindwalker) for legacy app icon
+
+## Support
+If you ❤️ the KeyClu and found it useful for your tasks, be sure to ⭐ it and maybe support me with caffeine.
+
+
