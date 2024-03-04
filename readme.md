@@ -49,10 +49,8 @@ A few of the things you can do with KeyClu:
 
 ## Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts
-* [skhd](https://github.com/koekeishiya/skhd) to list shortcuts, more details on [wiki](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd) page
-* CLI tools to manipulate KeyClu:
-  - Trigger shortcuts panel by passing `--show-shortcuts` param (action becomes `toggle` when KeyClu is paused)
-  - Toggle persistent panel by passing `--toggle-persistent` param
+* [skhd](https://github.com/koekeishiya/skhd) to list shortcuts, more details on [skhd wiki page](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd)
+* CLI params, more details on [CLI params wiki page](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-CLI-params)
 
 ## FAQ
 ### How to open Settings if icon is hidden?
