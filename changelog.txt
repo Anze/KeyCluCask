@@ -1,3 +1,10 @@
+v0.23
+- fixed issue with apps without bundle identifier
+- fixed issue with conditions to activate Shortcuts & Persistent Panel, less accidental activation
+- fixed issue with skhd files, now checking all default locations
+- improved ui: background color tweaked for a smoother experience for macOS < 13
+- added possibility to show only skhd hotkeys with --toggle-panel cli param (experimental feature)
+
 v0.22
 - fixed bug with Shortcuts Panel being showed briefly if called from status menu bar or via cli
 - fixed issue of incorrect targeting KeyClu as active app
