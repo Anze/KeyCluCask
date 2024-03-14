@@ -1,3 +1,10 @@
+v0.24
+- fixed issue #59 with activation hotkeys
+- fixed issue #60 with fallback to desktop after close panel
+- fixed issue #61 with highlighting option
+- improved skhd parsing, sorting order
+- improved ui
+
 v0.23.1
 - fixed issue with parser of skhd format
 - enhanced ui: now skhd sections always displayed in alphabetical order
