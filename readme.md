@@ -40,7 +40,7 @@ Download the [latest version](https://github.com/Anze/KeyCluCask/releases/latest
 ## Features
 A few of the things you can do with KeyClu:
 * Adjust view to your liking
-* Personalize sheme to `system`, `light` and `dark`
+* Personalize appearance to `system`, `light` and `dark`
 * Bookmark shortcuts
 * Hide known shortcuts
 * List own & skhd shortcuts
