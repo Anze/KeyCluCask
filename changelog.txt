@@ -1,3 +1,9 @@
+v0.25
+- fixed issue with focus Settings after updating My Shortcuts
+- fixed issue with highlight
+- enhance ui, finally lineup shortcuts
+- added possibility to list macOS Keyboard Shortcuts (Integrations section)
+
 v0.24
 - fixed issue #59 with activation hotkeys
 - fixed issue #60 with fallback to desktop after close panel
