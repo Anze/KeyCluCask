@@ -44,7 +44,7 @@ A few of the things you can do with KeyClu:
 * Bookmark shortcuts
 * Hide known shortcuts
 * List own & skhd shortcuts
-* Filter and hightlight shortcuts
+* Collapsible groups of shortcuts
 * Export App's shortcuts to markdown file
 
 ## Integrations
@@ -74,6 +74,7 @@ This software uses the following open source packages:
 * [Sparkle](https://github.com/sparkle-project/Sparkle)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift)
 * [SQLiteMigrationManager.swift](https://github.com/garriguv/SQLiteMigrationManager.swift)
+* [JSON.swift](https://github.com/mikezs/Tisander)
 
 ## Thanks
 * Special thanks to everyone who contributed to getting the KeyClu to the current state
