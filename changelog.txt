@@ -1,3 +1,14 @@
+v0.26
+- fixed issue with non working "power" button in Settings under certain conditions
+- fixed issue with not properly loading translation for macOS hotkeys in older macOS causing not display hotkeys completely
+- improved import/export of "My Shortcuts", now preserve shortcut groups order
+- improved settings ui
+- added multi monitor support #49
+- added link for "Extensions page" at "My Shortcuts"  #67 (display missing shortcuts for apps and more)
+- added "Bookmarked" group #68
+- added "Collapsible" groups #69
+- moved filtering shortcuts functionality to "Experimental Features" as not stable enough
+
 v0.25
 - fixed issue with focus Settings after updating My Shortcuts
 - fixed issue with highlight
