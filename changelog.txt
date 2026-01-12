@@ -1,3 +1,54 @@
+v0.31
+- improved indication of whether a menu group is folded or unfolded (partial solution for hiding functionality for #124)
+- improved app focus handling #82
+- added Zebra mode for alternating background item highlights #128
+- added support for SKHD modes #100
+
+v0.30.2
+- fixed issue with macOS 26 crash #130
+- improved app focus handling (issue may still occur) #82
+
+v0.30.1
+- fixed issue with processing cli params
+
+v0.30
+- fixed issue with Persistent Panel
+- fixed issue with some keys not being displayed
+- fixed issue with displaying macOS keyboard shortcuts #112
+- improved processing app focus (auto-switch apps when it is not intended) #82, #103
+- improved key displaying #109
+- improved Launch at Login behaviour
+- improved performance
+- added possibility to manage ignore apps with My Shortcuts list
+- added possibility to delete app from My Shortcuts list (custom shortcuts kept)
+- added commands to manage apps of ignore list (see cli params page)
+- added possibility to change elements size on command bar #65
+- added possibility to highlight partial modifiers match #107
+- added possibility to call macOS and skhd Hotkeys Panels from menu bar icon
+
+v0.29
+- fixed issue with highlight menu items
+- added new colors for menu item highlight
+- added possibility ignore windows #99
+- added possibility to change activation key #90, #81 and #87
+- added customizable colors and an alternative highlight mode for shortcuts #76
+- added toggles for few options to command bar #65
+- added "Show" button on Notification to highlight exported Markdown file
+- improved modifier keys processing (support Hyperkey) #75
+- relocated "My Shortcuts" switch to the "My Shortcuts" section
+- small improvements to "My Shortcuts" section
+
+v0.28
+- fixed issue displaying skhd #94
+- fixed issue displaying empty window on macos15 #96
+
+v0.27
+- fixed memory leak issue
+- fixed issue #74
+- added possibility to change Bookmark title and icon #70
+- update sparkle (security fix)
+- KeyClu Converter, allows to convert existing `.kcustom` files to `.keyclu`
+
 v0.26
 - fixed issue with non working "power" button in Settings under certain conditions
 - fixed issue with not properly loading translation for macOS hotkeys in older macOS causing not display hotkeys completely

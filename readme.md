@@ -44,8 +44,10 @@ A few of the things you can do with KeyClu:
 * Bookmark shortcuts
 * Hide known shortcuts
 * List own & skhd shortcuts
-* Collapsible groups of shortcuts
+* Collapsible groups (menu) of shortcuts
 * Export App's shortcuts to markdown file
+* Display macOS hotkeys
+* Display skhd hotkeys
 
 ## Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts
@@ -82,5 +84,3 @@ This software uses the following open source packages:
 
 ## Support
 If you ❤️ the KeyClu and found it useful for your tasks, be sure to ⭐ it and maybe support me with caffeine.
-
-
