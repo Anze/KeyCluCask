@@ -43,11 +43,11 @@ A few of the things you can do with KeyClu:
 * Personalize appearance to `system`, `light` and `dark`
 * Bookmark shortcuts
 * Hide known shortcuts
-* List own & skhd shortcuts
-* Collapsible groups (menu) of shortcuts
+* Collapsible groups of shorcuts
 * Export App's shortcuts to markdown file
 * Display macOS hotkeys
 * Display skhd hotkeys
+* Display own shortcuts
 
 ## Integrations
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) to customize shortcuts
