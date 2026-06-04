@@ -5,13 +5,13 @@
 
 Simple and handy overview of applications shortcuts. Easy to use: just press `⌘` twice and hold to see the list.
 
-![platform:macos  + Intel](https://img.shields.io/badge/platform-macOS%20%20%20+%20Intel-2F3640.svg)
-![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur%2B-337AFF.svg)
+![platform:macos  + Intel](https://img.shields.io/badge/platform-macOS__+_Intel-2F3640.svg)
+![version:bigsur](https://img.shields.io/badge/requirements-Big_Sur%2B-337AFF.svg)
 ![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
 ![license:bsd-3-clause-clear](https://img.shields.io/badge/license-BSD--3--Clause--Clear-orange.svg)
 
-[![github downloads](https://img.shields.io/github/downloads/Anze/KeyCluCask/total.svg?label=github%20downloads)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![brew downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/cask/keyclu.json&query=$.analytics.install[%27365d%27].keyclu&label=homebrew%20installs&color=brightgreen)](https://formulae.brew.sh/cask/keyclu)
+[![github downloads](https://img.shields.io/github/downloads/Anze/KeyCluCask/total.svg?label=github+downloads)](https://github.com/Anze/KeyCluCask/releases/latest)
+[![brew downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/cask/keyclu.json&query=$.analytics.install[%27365d%27].keyclu&label=homebrew+installs&color=brightgreen)](https://formulae.brew.sh/cask/keyclu)
 
 ## Screenshots
 ![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
