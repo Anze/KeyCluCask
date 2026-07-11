@@ -11,7 +11,7 @@ Simple and handy overview of applications shortcuts. Easy to use: just press `‚å
 ![license:bsd-3-clause-clear](https://img.shields.io/badge/license-BSD--3--Clause--Clear-orange.svg)
 
 [![github downloads](https://sergii.tatarenkov.name/keyclu/support/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![brew downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/cask/keyclu.json&query=$.analytics.install[%27365d%27].keyclu&label=homebrew+installs&color=brightgreen)](https://formulae.brew.sh/cask/keyclu)
+[![brew downloads](https://sergii.tatarenkov.name/keyclu/support/brew-downloads.svg)](https://formulae.brew.sh/cask/keyclu)
 
 ## Screenshots
 ![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
