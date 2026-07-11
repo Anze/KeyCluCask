@@ -1,3 +1,5 @@
+English | [简体中文](readme.zh-CN.md)
+
 <p align="center">
   <img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" height="128" />
   <h1 align="center">KeyClu for macOS</h1>
@@ -12,6 +14,7 @@ Simple and handy overview of applications shortcuts. Easy to use: just press `�
 
 [![github downloads](https://sergii.tatarenkov.name/keyclu/support/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
 [![brew downloads](https://sergii.tatarenkov.name/keyclu/support/brew-downloads.svg)](https://formulae.brew.sh/cask/keyclu)
+[![Crowdin](https://badges.crowdin.net/keyclu/localized.svg)](https://crowdin.com/project/keyclu)
 
 ## Screenshots
 ![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
@@ -43,7 +46,7 @@ A few of the things you can do with KeyClu:
 * Personalize appearance to `system`, `light` and `dark`
 * Bookmark shortcuts
 * Hide known shortcuts
-* Collapsible groups of shorcuts
+* Collapsible groups (menu) of shortcuts
 * Export App's shortcuts to markdown file
 * Display macOS hotkeys
 * Display skhd hotkeys
@@ -78,9 +81,13 @@ This software uses the following open source packages:
 * [SQLiteMigrationManager.swift](https://github.com/garriguv/SQLiteMigrationManager.swift)
 * [JSON.swift](https://github.com/mikezs/Tisander)
 
+## Translations
+Special thanks to the following contributors for their translation work:
+* zh-CN: [@InTheManXG](https://github.com/InTheManXG)
+
 ## Thanks
-* Special thanks to everyone who contributed to getting the KeyClu to the current state
-* [@wanwindwalker](https://github.com/wanwindwalker) for legacy app icon
+* Thanks to everyone who contributed
+* [@wanwindwalker](https://github.com/wanwindwalker) for the legacy app icon
 
 ## Support
 If you ❤️ the KeyClu and found it useful for your tasks, be sure to ⭐ it and maybe support me with caffeine.
