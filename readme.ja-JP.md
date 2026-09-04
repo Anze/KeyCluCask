@@ -5,10 +5,10 @@
   <h1 align="center">KeyClu for macOS</h1>
 </p>
 
-アプリのショートカットなどを簡単に一覧表示できます。使い方は簡単: ⌘ キーを2回押してそのまま押し続けるだけで一覧表示を見られます。
+アプリのショートカットなどを簡単に一覧表示できます。使い方は簡単: `⌘` キーを2回押してそのまま押し続けるだけで一覧表示を見られます。
 
-![platform:macos  + Intel](https://img.shields.io/badge/platform-macOS%20%20%20+%20Intel-2F3640.svg)
-![version:bigsur](https://img.shields.io/badge/requirements-Big%20Sur%2B-337AFF.svg)
+![platform:macos  + Intel](https://img.shields.io/badge/platform-macOS__+_Intel-2F3640.svg)
+![version:bigsur](https://img.shields.io/badge/requirements-Big_Sur%2B-337AFF.svg)
 ![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
 ![license:bsd-3-clause-clear](https://img.shields.io/badge/license-BSD--3--Clause--Clear-orange.svg)
 
@@ -59,7 +59,7 @@ brew install --cask keyclu
 ## サードパーティ製アプリとの連携
 * [CustomShortcuts](https://www.houdah.com/customShortcuts/) ショートカットをカスタマイズできます。
 * [skhd](https://github.com/koekeishiya/skhd) でショートカットを一覧表示できます。詳細は [skhd Wiki](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd) をご覧ください。
-* CLI パラメータによる連携。詳細は [CLI param Wkiteiiki](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-CLI-params) をご覧ください。
+* CLI パラメータによる連携。詳細は [CLI params Wiki](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-CLI-params) をご覧ください。
 
 ## よくある質問と解答
 ### アイコンが非表示の場合、設定を開くにはどうすればよいですか？
@@ -69,7 +69,7 @@ brew install --cask keyclu
 クラッシュが発生した場合は、Issue ページを開き、詳細や関連するログ、クラッシュにつながった可能性のある操作について簡単にお知らせください。問題に必要な情報を収集するためのガイダンスとして、よくある質問のページ [FAQ - KeyClu just crashed](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) をご確認ください。ご協力いただけると、より効果的に問題を解決できるようになります。
 
 ## ロードマップ
-[KeyClu のプロジェクトボード ](https://github.com/users/Anze/projects/1)で、現在進行中の項目をご確認いただけます。
+[KeyClu のプロジェクトボード](https://github.com/users/Anze/projects/1)で、現在進行中の項目をご確認いただけます。
 
 機能リクエストはいつでも大歓迎です。
 
